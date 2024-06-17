@@ -1,5 +1,5 @@
 # Demo
 <br>
-This is my first Repositery on Github.
-Author - Amit Kumar.
+This is my first Repositery on Github.<br>
+Author - Amit Kumar.<br>
 Adding some random data through my local system.
